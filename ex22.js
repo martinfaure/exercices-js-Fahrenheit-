@@ -4,3 +4,5 @@ function to_a(c1 = "a", c2 = "z") {
 }
 
 console.log(to_a("z", "a"));
+
+console.log("abc".split("").reverse().join(""));
